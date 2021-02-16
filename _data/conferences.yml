@@ -1,6 +1,6 @@
 ---
 
-- name: NSDI '22 Spring Deadline
+- name: NSDI Spring Deadline
   description: USENIX Symposium on Networked Systems Design and Implementation
   year: 2022
   deadline:
@@ -9,10 +9,10 @@
   date: "April 4–6"
   place: Renton, WA, US
   timezone: Etc/GMT
-  tags: [SEC, PRIV, SYSTEM]
+  tags: [SYSTEM]
 
 
-- name: NSDI '22 Fall Deadline
+- name: NSDI Fall Deadline
   description: USENIX Symposium on Networked Systems Design and Implementation
   year: 2022
   deadline:
@@ -21,9 +21,9 @@
   date: "April 4–6"
   place: Renton, WA, US
   timezone: Etc/GMT
-  tags: [SEC, PRIV, SYSTEM]
+  tags: [SYSTEM]
 
-- name: OSDI '21
+- name: OSDI
   description: USENIX Symposium on Operating Systems Design and Implementation
   year: 2021
   deadline:
@@ -32,18 +32,18 @@
   date: "July 14-16"
   place: Santa Clara, CA, US
   timezone: Etc/GMT
-  tags: [SEC, PRIV, SYSTEM]
+  tags: [SYSTEM]
 
-- name: OSDI '22
+- name: OSDI
   description: USENIX Symposium on Operating Systems Design and Implementation
   year: 2022
   comment: Abstract registrations due December 3
   date: "July 11-13"
   place: Carlsbad, CA, US
   timezone: Etc/GMT
-  tags: [SEC, PRIV, SYSTEM]
+  tags: [SYSTEM]
 
-- name: SOSP '21
+- name: SOSP
   description: ACM Symposium on Operating Systems Principles
   year: 2021
   deadline:
@@ -52,10 +52,10 @@
   date: "October 26-28"
   place: Santa Clara, CA, US
   timezone: Etc/GMT
-  tags: [SEC, PRIV, SYSTEM]
+  tags: [SYSTEM]
 
 
-- name: USENIX Security '21
+- name: USENIX Security
   description: USENIX Security Symposium
   year: 2021
   deadline:
@@ -66,7 +66,7 @@
   timezone: Etc/GMT
   tags: [SEC, PRIV, SYSTEM]
 
-- name: Usenix Security '22 - Summer Deadline
+- name: Usenix Security - Summer Deadline
   description: Usenix Security Symposium
   year: 2022
   link: https://www.usenix.org/conference/usenixsecurity22
@@ -78,7 +78,7 @@
   tags: [SEC, PRIV, SYSTEM]
 
 
-- name: Usenix Security '22 - Fall Deadline
+- name: Usenix Security - Fall Deadline
   description: Usenix Security Symposium
   year: 2022
   link: https://www.usenix.org/conference/usenixsecurity22
@@ -91,7 +91,7 @@
   tags: [SEC, PRIV, SYSTEM]
 
 
-- name: Usenix Security '22 - Winter Deadline
+- name: Usenix Security - Winter Deadline
   description: Usenix Security Symposium
   year: 2022
   link: https://www.usenix.org/conference/usenixsecurity22
@@ -101,7 +101,6 @@
   date: "August 10-12"
   place: Boston, MA, USA.
   tags: [SEC, PRIV, SYSTEM]
-
 
 
 # Security and Privacy
