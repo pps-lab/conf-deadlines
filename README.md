@@ -1,6 +1,7 @@
-# Security and Privacy deadlines countdown
+# Conference Deadlines for Privacy Preserving Systems Lab
 
-Based on [ai-deadlines](https://aideadlin.es) by @abshkdz
+Forked from [sec-deadlines](https://github.com/sec-deadlines/sec-deadlines.github.io)  by Clement Fung and Bogdan Kulynych
+Based on [ai-deadlines](https://github.com/sec-deadlines/sec-deadlines.github.io) by @abshkdz
 
 ## Adding/updating a conference
 
