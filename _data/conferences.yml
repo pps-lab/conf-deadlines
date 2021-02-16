@@ -1,6 +1,6 @@
 ---
 
-- name: NSDI Spring Deadline
+- name: NSDI - Spring Deadline
   description: USENIX Symposium on Networked Systems Design and Implementation
   year: 2022
   deadline:
@@ -12,7 +12,7 @@
   tags: [SYSTEM]
 
 
-- name: NSDI Fall Deadline
+- name: NSDI - Fall Deadline
   description: USENIX Symposium on Networked Systems Design and Implementation
   year: 2022
   deadline:
