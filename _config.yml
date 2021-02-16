@@ -5,7 +5,7 @@ author: Bogdan Kulynych
 domain: "pps-lab.github.io"
 baseurl: "/sec-deadlines"
 
-twitter_username: hiddenmarkov
+#twitter_username: hiddenmarkov
 github_username: pps-lab
 github_repo: sec-deadlines
 #ga_id: UA-104921371-1
