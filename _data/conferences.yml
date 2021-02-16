@@ -1,27 +1,4 @@
 ---
-# Security and Privacy
-#- name: S&P (Oakland)
-#  year: 2022
-#  date: "May 22 – 26 2022"
-#  description: IEEE Symposium on Security and Privacy
-#  link: https://www.ieee-security.org/TC/SP2022/
-#  comment: Three deadlines
-#  deadline:
-#    - "2021-04-15 23:59"
-#    - "2021-08-19 23:59"
-#    - "2021-12-02 23:59"
-#  place: San Francisco, California, USA
-#  tags: [SEC, PRIV]
-#
-#- name: Euro S&P
-#  description: IEEE European Symposium on Security and Privacy
-#  year: 2021
-#  link: https://www.ieee-security.org/TC/EuroSP2021/
-#  deadline: "2020-11-05 23:59"
-#  date: "September 7 - 11"
-#  place: Vienna, Austria
-#  tags: [SEC, PRIV]
-
 
 - name: NSDI '22 Spring Deadline
   description: USENIX Symposium on Networked Systems Design and Implementation
@@ -29,7 +6,7 @@
   deadline:
   - "2021-03-10 19:59"
   comment: Paper titles and abstracts due March 4
-  date: April 4–6
+  date: "April 4–6"
   place: Renton, WA, US
   timezone: Etc/GMT
   tags: [SEC, PRIV, SYSTEM]
@@ -41,12 +18,114 @@
   deadline:
   - "2021-09-15 18:59"
   comment: Paper titles and abstracts due September 9
-  date: April 4–6
+  date: "April 4–6"
   place: Renton, WA, US
   timezone: Etc/GMT
   tags: [SEC, PRIV, SYSTEM]
 
+- name: OSDI '21
+  description: USENIX Symposium on Operating Systems Design and Implementation
+  year: 2021
+  deadline:
+  - "2020-12-10 14:00"
+  comment: Abstract registrations due December 3
+  date: "July 14-16"
+  place: Santa Clara, CA, US
+  timezone: Etc/GMT
+  tags: [SEC, PRIV, SYSTEM]
 
+- name: OSDI '22
+  description: USENIX Symposium on Operating Systems Design and Implementation
+  year: 2022
+  comment: Abstract registrations due December 3
+  date: "July 11-13"
+  place: Carlsbad, CA, US
+  timezone: Etc/GMT
+  tags: [SEC, PRIV, SYSTEM]
+
+- name: SOSP '21
+  description: ACM Symposium on Operating Systems Principles
+  year: 2021
+  deadline:
+  - "2020-05-07 12:59"
+  comment: Abstract registrations due April 30
+  date: "October 26-28"
+  place: Santa Clara, CA, US
+  timezone: Etc/GMT
+  tags: [SEC, PRIV, SYSTEM]
+
+
+- name: USENIX Security '21
+  description: USENIX Security Symposium
+  year: 2021
+  deadline:
+  - "2020-05-07 12:59"
+  comment: Abstract registrations due April 30
+  date: "October 26-28"
+  place: Santa Clara, CA, US
+  timezone: Etc/GMT
+  tags: [SEC, PRIV, SYSTEM]
+
+- name: Usenix Security '22 - Summer Deadline
+  description: Usenix Security Symposium
+  year: 2022
+  link: https://www.usenix.org/conference/usenixsecurity22
+  deadline:
+    - "2021-06-08 23:59"
+  comment: 3 review cycles
+  date: "August 10-12"
+  place: Boston, MA, USA.
+  tags: [SEC, PRIV, SYSTEM]
+
+
+- name: Usenix Security '22 - Fall Deadline
+  description: Usenix Security Symposium
+  year: 2022
+  link: https://www.usenix.org/conference/usenixsecurity22
+  deadline:
+    - "2021-10-12 23:59"
+    - "2022-02-01 23:59"
+  comment: 3 review cycles
+  date: "August 10-12"
+  place: Boston, MA, USA.
+  tags: [SEC, PRIV, SYSTEM]
+
+
+- name: Usenix Security '22 - Winter Deadline
+  description: Usenix Security Symposium
+  year: 2022
+  link: https://www.usenix.org/conference/usenixsecurity22
+  deadline:
+    - "2022-02-01 23:59"
+  comment: 3 review cycles
+  date: "August 10-12"
+  place: Boston, MA, USA.
+  tags: [SEC, PRIV, SYSTEM]
+
+
+
+# Security and Privacy
+- name: S&P (Oakland)
+  year: 2022
+  date: "May 22 – 26 2022"
+  description: IEEE Symposium on Security and Privacy
+  link: https://www.ieee-security.org/TC/SP2022/
+  comment: Three deadlines
+  deadline:
+    - "2021-04-15 23:59"
+    - "2021-08-19 23:59"
+    - "2021-12-02 23:59"
+  place: San Francisco, California, USA
+  tags: [SEC, PRIV]
+
+- name: Euro S&P
+  description: IEEE European Symposium on Security and Privacy
+  year: 2021
+  link: https://www.ieee-security.org/TC/EuroSP2021/
+  deadline: "2020-11-05 23:59"
+  date: "September 7 - 11"
+  place: Vienna, Austria
+  tags: [SEC, PRIV]
 
 - name: CCS
   description: ACM Conference on Computer and Communications Security
