@@ -1,26 +1,26 @@
 ---
 # Security and Privacy
-- name: S&P (Oakland)
-  year: 2022
-  date: "May 22 – 26 2022"
-  description: IEEE Symposium on Security and Privacy
-  link: https://www.ieee-security.org/TC/SP2022/
-  comment: Three deadlines
-  deadline:
-    - "2021-04-15 23:59"
-    - "2021-08-19 23:59"
-    - "2021-12-02 23:59"
-  place: San Francisco, California, USA
-  tags: [SEC, PRIV]
-
-- name: Euro S&P
-  description: IEEE European Symposium on Security and Privacy
-  year: 2021
-  link: https://www.ieee-security.org/TC/EuroSP2021/
-  deadline: "2020-11-05 23:59"
-  date: "September 7 - 11"
-  place: Vienna, Austria
-  tags: [SEC, PRIV]
+#- name: S&P (Oakland)
+#  year: 2022
+#  date: "May 22 – 26 2022"
+#  description: IEEE Symposium on Security and Privacy
+#  link: https://www.ieee-security.org/TC/SP2022/
+#  comment: Three deadlines
+#  deadline:
+#    - "2021-04-15 23:59"
+#    - "2021-08-19 23:59"
+#    - "2021-12-02 23:59"
+#  place: San Francisco, California, USA
+#  tags: [SEC, PRIV]
+#
+#- name: Euro S&P
+#  description: IEEE European Symposium on Security and Privacy
+#  year: 2021
+#  link: https://www.ieee-security.org/TC/EuroSP2021/
+#  deadline: "2020-11-05 23:59"
+#  date: "September 7 - 11"
+#  place: Vienna, Austria
+#  tags: [SEC, PRIV]
 
 - name: CCS
   description: ACM Conference on Computer and Communications Security
