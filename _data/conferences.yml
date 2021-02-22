@@ -1,27 +1,15 @@
 ---
 
-- name: NSDI - Spring Deadline
-  description: USENIX Symposium on Networked Systems Design and Implementation
-  year: 2022
+- name: USENIX Security
+  description: USENIX Security Symposium
+  year: 2021
   deadline:
-  - "2021-03-10 19:59"
-  comment: Paper titles and abstracts due March 4
-  date: "April 4–6"
-  place: Renton, WA, US
+  - "2020-05-07 12:59"
+  comment: Abstract registrations due April 30
+  date: "October 26-28"
+  place: Santa Clara, CA, US
   timezone: Etc/GMT
-  tags: [SYSTEM]
-
-
-- name: NSDI - Fall Deadline
-  description: USENIX Symposium on Networked Systems Design and Implementation
-  year: 2022
-  deadline:
-  - "2021-09-15 18:59"
-  comment: Paper titles and abstracts due September 9
-  date: "April 4–6"
-  place: Renton, WA, US
-  timezone: Etc/GMT
-  tags: [SYSTEM]
+  tags: [SEC, PRIV, SYSTEM]
 
 - name: OSDI
   description: USENIX Symposium on Operating Systems Design and Implementation
@@ -31,15 +19,6 @@
   comment: Abstract registrations due December 3
   date: "July 14-16"
   place: Santa Clara, CA, US
-  timezone: Etc/GMT
-  tags: [SYSTEM]
-
-- name: OSDI
-  description: USENIX Symposium on Operating Systems Design and Implementation
-  year: 2022
-  comment: Abstract registrations due December 3
-  date: "July 11-13"
-  place: Carlsbad, CA, US
   timezone: Etc/GMT
   tags: [SYSTEM]
 
@@ -54,17 +33,27 @@
   timezone: Etc/GMT
   tags: [SYSTEM]
 
-
-- name: USENIX Security
-  description: USENIX Security Symposium
-  year: 2021
+- name: NSDI - Spring Deadline
+  description: USENIX Symposium on Networked Systems Design and Implementation
+  year: 2022
   deadline:
-  - "2020-05-07 12:59"
-  comment: Abstract registrations due April 30
-  date: "October 26-28"
-  place: Santa Clara, CA, US
+  - "2021-03-10 19:59"
+  comment: Paper titles and abstracts due March 4
+  date: "April 4–6"
+  place: Renton, WA, US
   timezone: Etc/GMT
-  tags: [SEC, PRIV, SYSTEM]
+  tags: [SYSTEM]
+
+- name: ICML
+  description: International Conference on Machine Learning
+  year: 2021
+  link: https://icml.cc/
+  deadline:
+  - "2021-04-21 0:00"
+  comment:
+  date: "July 18 - 24"
+  place: Virtual Only
+  tags: [ML]
 
 - name: Usenix Security - Summer Deadline
   description: Usenix Security Symposium
@@ -77,6 +66,16 @@
   place: Boston, MA, USA.
   tags: [SEC, PRIV, SYSTEM]
 
+- name: NSDI - Fall Deadline
+  description: USENIX Symposium on Networked Systems Design and Implementation
+  year: 2022
+  deadline:
+  - "2021-09-15 18:59"
+  comment: Paper titles and abstracts due September 9
+  date: "April 4–6"
+  place: Renton, WA, US
+  timezone: Etc/GMT
+  tags: [SYSTEM]
 
 - name: Usenix Security - Fall Deadline
   description: Usenix Security Symposium
@@ -84,7 +83,6 @@
   link: https://www.usenix.org/conference/usenixsecurity22
   deadline:
     - "2021-10-12 23:59"
-    - "2022-02-01 23:59"
   comment: 3 review cycles
   date: "August 10-12"
   place: Boston, MA, USA.
@@ -113,16 +111,16 @@
   place: ?
   tags: [ML]
 
-- name: ICML
-  description: International Conference on Machine Learning
-  year: 2021
-  link: https://icml.cc/
-  deadline:
-  - "2021-21-04 0:00"
-  comment:
-  date: "July 18 - 24"
-  place: Virtual Only
-  tags: [ML]
+
+- name: OSDI
+  description: USENIX Symposium on Operating Systems Design and Implementation
+  year: 2022
+  comment: Abstract registrations due December 3
+  date: "July 11-13"
+  place: Carlsbad, CA, US
+  timezone: Etc/GMT
+  tags: [SYSTEM]
+
 
 - name: ICML
   description: International Conference on Machine Learning
@@ -169,20 +167,6 @@
   comment: 2 review cycles
   date: "November 14-19"
   place: Seoul, South Korea
-  tags: [SEC, PRIV]
-
-
-- name: Usenix
-  description: Usenix Security Symposium
-  year: 2022
-  link: https://www.usenix.org/conference/usenixsecurity22
-  deadline:
-    - "2021-06-08 23:59"
-    - "2021-10-12 23:59"
-    - "2022-02-01 23:59"
-  comment: 3 review cycles
-  date: "August 10-12"
-  place: Boston, MA, USA.
   tags: [SEC, PRIV]
 
 - name: NDSS
@@ -276,7 +260,6 @@
   date: "Feb 10 - 14"
   place: Kota Kinabalu, Sabah, Malaysia
   tags: CRYPTO
-
 
 - name: PKC
   description: International Conference on Practice and Theory of Public Key Cryptography
