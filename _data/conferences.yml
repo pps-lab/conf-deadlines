@@ -47,7 +47,7 @@
   description: ACM Symposium on Operating Systems Principles
   year: 2021
   deadline:
-  - "2020-05-07 12:59"
+  - "2021-05-07 12:59"
   comment: Abstract registrations due April 30
   date: "October 26-28"
   place: Santa Clara, CA, US
@@ -101,6 +101,39 @@
   date: "August 10-12"
   place: Boston, MA, USA.
   tags: [SEC, PRIV, SYSTEM]
+
+
+- name: NeurIPS
+  description: Conference on Neural Information Processing Systems
+  year: 2021
+  link: https://nips.cc/
+  deadline:
+  comment:
+  date: "November 27- December 5"
+  place: ?
+  tags: [ML]
+
+- name: ICML
+  description: International Conference on Machine Learning
+  year: 2021
+  link: https://icml.cc/
+  deadline:
+  - "2021-21-04 0:00"
+  comment:
+  date: "July 18 - 24"
+  place: Virtual Only
+  tags: [ML]
+
+- name: ICML
+  description: International Conference on Machine Learning
+  year: 2022
+  link: https://icml.cc/
+  deadline:
+  comment:
+  date: "July 17 - 23"
+  place: Balltimore, Maryland USA
+  tags: [ML]
+
 
 
 # Security and Privacy
